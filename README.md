@@ -45,10 +45,10 @@ The objective of this project is to understand and implement:
 ## 📸 Output Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshot/login.png)
 
 ### ShopCart Page
-![ShopCart Page](screenshots/shopcart.png)
+![ShopCart Page](screenshot/shopcart.png)
 
 ---
 
